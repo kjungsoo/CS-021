@@ -1,0 +1,15 @@
+Sample email text
+Sat, Feb 7, 2015 at 9:14 AM
+
+Weiwei Pan <wp1@stmarys-ca.edu> 
+To: Weiwei Pan <wp1@stmarys-ca.edu>
+
+Dear Weiwei,
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla non elit aliquet, consectetur sem eu, ornare felis. Sed sodales felis vitae felis ullamcorper euismod. Aenean ultricies orci suscipit ligula mattis, ac mollis urna dapibus. Nulla tristique quam accumsan ullamcorper congue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam leo metus, pulvinar ac mi sed, posuere porttitor leo. Praesent sit amet fermentum lectus. Sed sollicitudin, purus in sollicitudin dapibus, tellus ante hendrerit risus, ac aliquet quam dui nec massa. Vestibulum lorem odio, varius id rutrum bibendum, viverra sit amet arcu. Aenean quis consectetur nisl, vel molestie dolor.
+
+Duis aliquam facilisis ligula, ac pretium erat pulvinar eget. In non eros eu mauris luctus eleifend. Fusce placerat nulla ac urna volutpat, mollis vestibulum risus iaculis. Maecenas sed augue posuere, faucibus felis quis, dapibus sem. Vestibulum blandit volutpat felis et imperdiet. Aliquam commodo ut augue in ullamcorper. Integer vulputate, est quis vestibulum dignissim, velit magna pulvinar odio, ut lobortis enim elit ut urna.
+
+Best,
+
+Weiwei Pan

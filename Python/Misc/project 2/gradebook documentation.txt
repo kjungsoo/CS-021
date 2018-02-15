@@ -1,0 +1,31 @@
+Jung Kim
+CS-21
+Project #2 - documentation
+
+function gradebook: an empty list identified as roster.
+input: None
+output: roster
+
+function add_student: adds students to the list, roster.
+input: roster
+output: roster
+
+function calculate_individual_grade: calculates course grade and letter grade for each student in the roster
+input: roster
+output: None
+
+function calculate_class_avg: calculates the overall avg of each test as well as the class grade
+input: roster
+output: class_midterm_average, class_final_average, overall_course_grade
+
+function search: searches the roster by first name, last name or ID number
+input: roster
+output: None
+
+function confirming: a confirm function used throughout the program to increase efficiency of conditionals
+input: None
+output: user_confirm, confirm
+
+function access_roster: a menu that allows users to access various features such as adding students, searching and calculating scores
+input: roster
+output: None

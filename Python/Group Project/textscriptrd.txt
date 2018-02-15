@@ -1,0 +1,259 @@
+Sample script
+
+characters:
+Eric      - Pikachu
+Anna      - Skitty
+Christine - Eevee
+Jung      - Nosepass
+Weiwei    - Mew(?)
+
+0 -Prologue- bg005
+0
+
+1 Nosepass 
+1 So, Pikachu.
+
+2 Pikachu
+2 Yeah?
+
+3 Nosepass
+3 What're we gonna do for that project?
+
+4 Pikachu
+4 Wanna make a game?
+
+5 Nosepass
+5 Yeah, is Skitty doing it with us?
+
+6 Pikachu
+6 Probably, let's ask her.
+
+7 Nosepass
+7 Alright, I'll ask her next time I see her, unless you see her first.
+
+8 Pikachu
+8 Sure thing.
+
+9 -Day 1-
+9
+
+10 Nosepass
+10 Hey Skitty.
+
+11 Skitty
+11 Hey Nosepass.
+
+12 Nosepass
+12 Pikachu and I were wondering, are you going to do the group project with us?
+
+13 Skitty
+13 Would it be okay for me to join?
+
+14 Nosepass
+14 Yeah, no problem.
+
+15 Skitty
+15 I'll do that then, thanks!
+
+16 Nosepass
+16 Alright, see ya later.
+
+17 Skitty
+17 Yeah, bye.
+
+18 Nosepass
+18 So, Skitty said she was joining us for the project.
+
+19 Pikachu
+19 Alright.
+
+Pikachu
+What exactly are we doing for the project?
+
+Nosepass
+Dunno, probably some sort of rpg.
+
+Nosepass
+I'll ask Skitty what kind of game she would like to make.
+
+*Pikachu's Pokedex vibrates*
+Skitty: Want to meet up to talk about the project?
+
+Pikachu
+Skitty just asked if we want to meet up to talk about the project.
+
+Nosepass
+Okay, what time and when?
+
+Pikachu
+Let me ask her...
+
+Pikachu
+How about Saturday at 3:00PM?
+
+Pikachu
+Oh and she asked for your number too.
+
+Nosepass
+Yeah, I don't have anything planned on Saturday.
+
+Nosepass
+How about you?
+
+Pikachu
+I have work for the theatre at that time, sorry.
+
+Nosepass
+Alright, it's cool and go ahead give her my number.
+
+Pikachu
+'Kay.
+
+-Day 2-
+
+
+Mew
+Hey Eevee, I know you've been working on your own. But for the group project, why don't you join a group?
+
+Eevee
+Okay.
+
+Eevee
+Hey Skitty, I don't have a group for the project, can I join your group?
+
+Skitty
+Sure, let me ask the others.
+
+Eevee
+What are you guys doing for the project?
+
+Skitty
+I think we're making a game, we still have to meet up and talk about it though.
+
+Eevee
+Oh okay.
+
+-------
+Pikachu
+Hey Nosepass.
+
+Nosepass
+Sup.
+
+Pikachu
+Skitty just texted me, she asked if her friend could join the group.
+
+Nosepass
+Who?
+
+Pikachu
+Dunno, Eevee?
+
+Pikachu
+Do you know her?
+
+Nosepass
+Nope, I have no idea who she is.
+
+Pikachu
+Me neither, what should we do?
+
+Nosepass
+Hm...I'll let you decide.
+
+Pikachu
+Eh...okay,
+
+Nosepass
+Ask Skitty who she is and what she's like.
+
+Pikachu
+Sure...
+
+Pikachu
+Anna said
+
+Nosepass
+Okay, I don't really mind, it's up to you.
+
+Pikachu
+Okay, I'll just tell Skitty we said yes.
+
+Nosepass
+Sure thing.
+
+-------
+Skitty's Pokedex
+Pikachu >> Skitty: Yeah, Eevee can join us.
+
+Skitty's Pokedex
+Skitty >> Eeve: Pikachu and Nosepass said they are fine with you joining!
+
+Skitty's Pokedex
+Eevee >> Skitty: Awesome, thanks.
+
+-Day 3-
+
+
+Nosepass' Pokedex
+Skitty >> Nosepass: Hi Nosepass, I'm outside your dorm, do you think you can let me in?
+
+Nosepass
+Hey Skitty.
+
+Skitty
+Hey.
+
+Nosepass
+I'm upstairs so let's go to the second floor lounge.
+
+Skitty
+Okay.
+
+Nosepass
+Oh and Pikachu's working so he won't be with us.
+
+Skitty
+Okay, that's fine.
+
+-------
+Nosepass
+So, for the project, pretty sure we're making a game... what kind of game do you wanna make? Like, do you want to make an RPG, 2D side scrolling or dungeon crawling game?
+
+Skitty
+I'm not sure, but I think an RPG would be nice.
+
+Nosepass
+Alright, wanna see a few example games of whatever type? We can watch them on PokeTube.
+
+Skitty
+Sure.
+
+Skitty
+For the dungeon crawling type of game, I have a few ideas we can do for it.
+
+Nosepass
+So you want to do a dungeon crawling game?
+
+Skitty
+Hmm... maybe. But not like the ones you showed me, they're a bit too dark and grim. Maybe we can do the dungeon crawling in an outside environment.
+
+Nosepass
+Maybe, well we also have to see what Pikachu and Eevee might want to do. I think Eric might want to do an RPG.
+
+Skitty
+Yeah, an RPG sounds nice.
+
+Nosepass
+For an RPG, what kind would you want to do? Like, medieval fantasy, high fantasy, sci-fi, contemporary...
+
+Skitty
+Maybe fantasy, with magic and elves and stuff.
+
+Nosepass
+Okay, I'll tell Eric and ask what he thinks, could you ask Eevee what kind of games she want to make?
+
+Skitty
+Sure.
+
+

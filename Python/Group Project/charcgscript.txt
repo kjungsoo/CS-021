@@ -1,0 +1,5 @@
+cg\\charactersprites\\eevee.gif
+cg\\charactersprites\\mew.gif
+cg\\charactersprites\\nosepass.gif
+cg\\charactersprites\\pikachu.gif
+cg\\charactersprites\\skitty.gif

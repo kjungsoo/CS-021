@@ -1,0 +1,28 @@
+bg_000 = campus/day
+bg_001 = classroom
+bg_002 = outside dorm
+bg_003 = room/day
+bg_004 = room/evening
+bg_005 = room/night
+bg_006 = lounge
+bg_007 = math center/day
+bg_008 = math center/evening
+
+Prologue: bg_005
+
+Day 1: bg_000
+       bg_003
+
+Day 2: bg_001
+       bg_004
+       bg_009
+
+Day 3: bg_003
+       bg_006
+       
+
+cg_script[10], line 0
+cg_script[5], line 1
+cg_script[10], line 9
+cg_script[0], line 10
+cg_script[3], line 18

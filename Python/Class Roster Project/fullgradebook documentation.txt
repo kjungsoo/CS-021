@@ -1,0 +1,60 @@
+Jung Kim
+CS - 21
+Project #3 - Full-Featured Gradebook, Documentation
+
+function():
+Inputs:
+Outputs:
+	description
+
+gradebook(textfile):
+Inputs: textfile, "string"
+Outputs: roster, [list]
+	Reads from a file (textfile.txt) and returns the content in a parsed list called roster.
+	Function will also add zeros to each graded category for each missing item (ie. if there are less than 10 graded quizzes, it will add a zero to the quiz category for each missing quiz)
+
+calculate_individual_grade(roster):
+Inputs: roster, [list]
+Outputs: None
+	Calculates the course grade and letter grade for each student and stores them in the list roster.
+
+calculate_class_avg(roster):
+Inputs: roster, [list]
+Outputs: [graded_averages, graded_ranges], [list]
+	Calculate the class average for each graded item and returns a list of averages and a list of all the graded items as a list.
+
+class_range(roster):
+Inputs: roster, [list]
+Outputs: [graded_avg_and_range, ranges], [list]
+	Runs calculate_class_avg(roster), returns graded_averages and graded_ranges and a list of lowest and highest score for each graded item
+
+add_student(roster):
+Inputs: roster, [list]
+Outputs: None
+	Adds students to the list, roster.
+	Function will also add zeroes to each graded category for each missing item.
+
+del_students(roster):
+Inputs: roster, [list]
+Outputs: None
+	Searches and deletes students from roster.
+
+search(roster):
+Inputs: roster, [list]
+Outputs: None
+	Searches and prints the record for a particular student.
+
+sort_roster(roster):
+Inputs: roster, [list]
+Outputs: sorted_roster, [list]
+	Sorts the roster in alphabetical order by last name into a separate list called sorted_roster and returns it.
+
+access_roster(roster):
+Inputs: roster, [list]
+Outputs: None
+	A menu function that has access to every function above.
+
+main():
+Inputs: None
+Outputs: None
+	Runs gradebook() and access_roster(roster)

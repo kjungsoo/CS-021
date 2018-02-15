@@ -1,0 +1,9 @@
+cg\\background\\bg_000.gif
+cg\\background\\bg_002.gif
+cg\\background\\bg_003.gif
+cg\\background\\bg_004.gif
+cg\\background\\bg_005.gif
+cg\\background\\bg_006.gif
+cg\\background\\bg_007.gif
+cg\\background\\bg_008.gif
+cg\\background\\bg_009.gif
